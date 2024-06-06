@@ -3,7 +3,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href=" " title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Christian-Matheus/Ebook_com_chatGPT/blob/main/output/Ebook_com_ChatGPT_Christian_Matheus.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
