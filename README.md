@@ -9,7 +9,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Imagine.art](https://www.imagine.art/)
-- [Showcoed](https://showcode.app/)
+- [Showcode](https://showcode.app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
